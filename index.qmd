@@ -1,0 +1,32 @@
+ ---
+ title: "My fist page"
+ ---
+ 
+ 
+ 
+```{r}
+library(reactable)
+```
+ 
+ 
+ 
+```{r}
+reactable(infert)
+```
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
